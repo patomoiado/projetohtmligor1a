@@ -1,14 +1,35 @@
 body{
-background-color: black;
+background-color: white;
 }
 h1{
-    color: white;
+    color: black;
 text-align: center;
 }
 p{
-    color: white;
+    color: black;
 }
 .imagem-banner{
     text-align: center;
 }
+.itens {
+    font-style: italic;
+    font-size: 30px;
+}
 
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagembeneficios {
+    width: 40%;
+}
